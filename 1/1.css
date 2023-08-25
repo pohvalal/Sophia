@@ -1,0 +1,74 @@
+
+    .tak {padding: 10px 10px 10px 10px}
+
+    .зверху {width:100%;
+        height:auto;}
+    
+    .div1 { margin-right: 0px;
+    }
+
+    body {
+        margin: 0;
+        padding: 0;
+      }
+
+    .збоку { width: auto;
+    height: auto}
+
+    .name {font-family: Lucida Console; font-size: 35px; margin-top: 0px; margin-bottom: 0px; margin-left: 10px}
+
+    body { background-color: rgba(255,255,255,255)}
+
+    .div212 {background-color: rgba(208,201,194,255);
+    padding-top: 20px; padding-bottom: 20px; padding-left: 30px;
+    padding-right: 20px; margin-left: 10px; border-radius: 5px;}
+
+
+    .div12 {margin-top: 10px; }
+    
+    .div22 {margin-top: 0px; margin-bottom: 30px; margin-right: 10px}
+
+    .down {
+        border-color: rgb(74, 71, 69);
+        color: rgb(74, 71, 69);
+        background-color: white;
+        border-width: 1px;
+        height: 50px;
+        border-radius: 3px;
+        width: 155px;
+        font-weight: bold;
+        border-style: solid;
+        font-size: 15px;
+        margin-left:26px;
+        margin-top: 10px;
+        transition: background-color 0.2s, color 0.2s, border 0.2s
+      }
+    .down:active {background-color: rgb(74, 71, 69);
+        color: white;
+        border: none}
+
+    .lo {color:black; font-family: Arial; margin-left: 144px;}    
+
+    .kartunku {margin-top: 0px; margin-bottom: 0px;}
+
+    .loh {font-family: Arial; font-size: 20px; margin-top: 10px; margin-bottom: 0px; margin-left: 10px; margin-bottom: 10px; text-align: center;}
+
+    .contacts {color: black; font-family: Arial; font-size: 18px;}
+
+    .contacts0 {color: black; font-family: Arial;}
+
+    .div4 {background-color: #d0c9c2;}
+
+    .contacts-text {color: black; font-family: Arial; font-size: 18px; text-align: center;}
+
+    .div412 {margin-left: 20px}
+
+    .div413 {margin-left: 20px}
+
+    .div414 {margin-left: 20px}
+
+    .div422 {margin-left: 20px}
+
+    .div423 {margin-left: 20px}
+
+    .div424 {margin-left: 20px}
